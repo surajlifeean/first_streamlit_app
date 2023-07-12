@@ -6,3 +6,5 @@ streamlit.text("Item 1")
 streamlit.text("Item 2")
 streamlit.text("Item 3")
 
+
+streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
